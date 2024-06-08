@@ -4,6 +4,8 @@ Kaggle-Algorithms
 
 ## Learn Data Structures and Algorithms for free
 
+https://www.youtube.com/watch?v=CBYHwZcbD-s&t=1301s
+ 
 Bro Code
 
 Data Structures and Algorithms full course tutorial java
